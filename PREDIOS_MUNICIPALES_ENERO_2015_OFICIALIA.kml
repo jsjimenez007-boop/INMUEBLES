@@ -206,6 +206,2437 @@
 	</StyleMap>
 	<Folder>
 		<name>Hechos</name>
+		<open>1</open>
+		<Placemark id="ID_01353">
+			<name>OL306262</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL306262</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1353</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL306262</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.002028</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1354</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9916964118274,32.48507810551064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01352">
+			<name>OL306331</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL306331</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1352</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL306331</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.003105</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1353</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9924431792348,32.48514253595104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01905">
+			<name>OL306332</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL306332</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1905</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL306332</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.000195</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1906</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9913700622412,32.48526915934778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01354">
+			<name>OL306263</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL306263</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1354</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL306263</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.000639</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1355</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9911971640922,32.48529022343159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00001">
+			<name>CF866001</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CF866001</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>CF866001</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.006222</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>2</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9865706752764,32.48672277059549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_00006">
+			<name>CF866006</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>CF866006</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>CF866006</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.000804</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>7</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9867690211513,32.48816475596418,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01301">
+			<name>OL302065</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302065</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1301</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302065</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.001391</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1302</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9916221283161,32.48570750034632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01621">
+			<name>OL306331</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL306331</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1621</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL306331</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.000741</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1622</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9933481421541,32.48680798813982,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01623">
+			<name>OL302005</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302005</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1623</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302005</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.000359</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1624</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9932693959205,32.48765807703173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01622">
+			<name>OL302024</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302024</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1622</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302024</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.00406</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1623</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.992294740365,32.48722978428971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01618">
+			<name>OL302052</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302052</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302052</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.007279</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1619</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9898962188834,32.48777048260935,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01619">
+			<name>OL302082</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302082</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1619</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302082</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.008872</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1620</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9916101876265,32.48828719939166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01620">
+			<name>OL302081</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302081</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1620</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302081</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.00675</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1621</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.991488685932,32.48895892091305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01617">
+			<name>OL302035</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302035</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1617</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302035</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.007036</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1618</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9915023650163,32.48880686679493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="ID_01302">
+			<name>OL302050</name>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>OL302050</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1302</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Name</td>
+
+<td>OL302050</td>
+
+</tr>
+
+<tr>
+
+<td>FolderPath</td>
+
+<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>SymbolID</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>AltMode</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Base</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Clamped</td>
+
+<td>-1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Extruded</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Snippet</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>PopupInfo</td>
+
+<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
+
+
+
+&lt;head&gt;
+
+
+
+&lt;META http-equiv="Content-Type" content="text/html"&gt;
+
+
+
+&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
+
+
+
+&lt;/head&gt;
+
+
+
+&lt;body style="mar</td>
+
+</tr>
+
+<tr>
+
+<td>Shape_Leng</td>
+
+<td>0.004968</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>ORIG_FID</td>
+
+<td>1303</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#IconStyle002000001100000000000</styleUrl>
+			<Point>
+				<coordinates>-116.9900660126599,32.49053133565847,0</coordinates>
+			</Point>
+		</Placemark>
 		<Placemark id="ID_01208">
 			<name>VL018002</name>
 			<open>1</open>
@@ -165563,6 +167994,7 @@
 	</Folder>
 	<Folder>
 		<name>Nombres</name>
+		<open>1</open>
 		<Document>
 			<name>Nombres_poligonos.kml</name>
 			<open>1</open>
@@ -167222,167 +169654,6 @@
 						<coordinates>-116.8602651393688,32.46781428852749,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark id="ID_00001">
-					<name>CF866001</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>CF866001</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>CF866001</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.006222</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>2</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9865706752764,32.48672277059549,0</coordinates>
-					</Point>
-				</Placemark>
 				<Placemark id="ID_00002">
 					<name>CF867003</name>
 					<Snippet maxLines="0"></Snippet>
@@ -168025,167 +170296,6 @@
 					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
 					<Point>
 						<coordinates>-116.9837990145595,32.48944957143875,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_00006">
-					<name>CF866006</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>CF866006</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>6</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>CF866006</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.000804</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>7</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9867690211513,32.48816475596418,0</coordinates>
 					</Point>
 				</Placemark>
 				<Placemark id="ID_00007">
@@ -281210,328 +283320,6 @@
 						<coordinates>-116.997948358846,32.46745254768267,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark id="ID_01301">
-					<name>OL302065</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302065</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1301</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302065</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.001391</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1302</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9916221283161,32.48570750034632,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01302">
-					<name>OL302050</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302050</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1302</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302050</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.004968</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1303</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9900660126599,32.49053133565847,0</coordinates>
-					</Point>
-				</Placemark>
 				<Placemark id="ID_01303">
 					<name>MZ455011</name>
 					<Snippet maxLines="0"></Snippet>
@@ -285716,489 +287504,6 @@
 					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
 					<Point>
 						<coordinates>-116.9924160266689,32.48429139032165,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01352">
-					<name>OL306331</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL306331</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1352</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL306331</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.003105</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1353</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9924431792348,32.48514253595104,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01353">
-					<name>OL306262</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL306262</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1353</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL306262</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.002028</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1354</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9916964118274,32.48507810551064,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01354">
-					<name>OL306263</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL306263</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1354</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL306263</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.000639</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1355</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9911971640922,32.48529022343159,0</coordinates>
 					</Point>
 				</Placemark>
 				<Placemark id="ID_01355">
@@ -311800,1133 +313105,6 @@
 						<coordinates>-116.9160848818421,32.51875358023238,0</coordinates>
 					</Point>
 				</Placemark>
-				<Placemark id="ID_01617">
-					<name>OL302035</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302035</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1617</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302035</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.007036</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1618</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9913243190057,32.48905031372986,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01618">
-					<name>OL302052</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302052</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1618</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302052</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.007279</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1619</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9900319005201,32.4878089017081,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01619">
-					<name>OL302082</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302082</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1619</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302082</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.008872</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1620</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9915486107147,32.48821420902947,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01620">
-					<name>OL302081</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302081</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1620</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302081</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.00675</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1621</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.991488685932,32.48895892091305,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01621">
-					<name>OL306331</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL306331</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1621</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL306331</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.000741</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1622</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9933481421541,32.48680798813982,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01622">
-					<name>OL302024</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302024</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1622</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302024</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.00406</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1623</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.992294740365,32.48722978428971,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01623">
-					<name>OL302005</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL302005</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1623</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL302005</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.000359</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1624</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9932693959205,32.48765807703173,0</coordinates>
-					</Point>
-				</Placemark>
 				<Placemark id="ID_01631">
 					<name>MZ795005</name>
 					<Snippet maxLines="0"></Snippet>
@@ -328059,167 +328237,6 @@
 					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
 					<Point>
 						<coordinates>-116.9194209691369,32.46391129036513,0</coordinates>
-					</Point>
-				</Placemark>
-				<Placemark id="ID_01905">
-					<name>OL306332</name>
-					<Snippet maxLines="0"></Snippet>
-					<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-
-<head>
-
-<META http-equiv="Content-Type" content="text/html">
-
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-</head>
-
-<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
-
-<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
-
-<td>OL306332</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
-
-<tr>
-
-<td>FID</td>
-
-<td>1905</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Name</td>
-
-<td>OL306332</td>
-
-</tr>
-
-<tr>
-
-<td>FolderPath</td>
-
-<td>PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA/PREDIOS_MUNICIPALES_ENERO_2015_OFICIALIA</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>SymbolID</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>AltMode</td>
-
-<td>0</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Base</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Clamped</td>
-
-<td>-1</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>Extruded</td>
-
-<td>0</td>
-
-</tr>
-
-<tr>
-
-<td>Snippet</td>
-
-<td></td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>PopupInfo</td>
-
-<td>&lt;html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt"&gt;
-
-
-
-&lt;head&gt;
-
-
-
-&lt;META http-equiv="Content-Type" content="text/html"&gt;
-
-
-
-&lt;meta http-equiv="content-type" content="text/html; charset=UTF-8"&gt;
-
-
-
-&lt;/head&gt;
-
-
-
-&lt;body style="mar</td>
-
-</tr>
-
-<tr>
-
-<td>Shape_Leng</td>
-
-<td>0.000195</td>
-
-</tr>
-
-<tr bgcolor="#D4E4F3">
-
-<td>ORIG_FID</td>
-
-<td>1906</td>
-
-</tr>
-
-</table>
-
-</td>
-
-</tr>
-
-</table>
-
-</body>
-
-</html>]]></description>
-					<styleUrl>#IconStyle0020000011000000000000</styleUrl>
-					<Point>
-						<coordinates>-116.9913700622412,32.48526915934778,0</coordinates>
 					</Point>
 				</Placemark>
 				<Placemark id="ID_01907">
@@ -710564,6 +710581,7 @@
 				<name>CONCENTRADO_INMUEBLES</name>
 				<Document id="1DD6CCCA3639C09DB445">
 					<name>INMUEBLES-DIA-21-22-23-JULIO-2025.kmz</name>
+					<open>1</open>
 					<StyleMap id="m_ylw-pushpin00">
 						<Pair>
 							<key>normal</key>
@@ -710695,6 +710713,7 @@
 						<description>INMUEBLES DE LAS FOTOGRAFIAS DE LOS DIAS 21, 22 Y 23</description>
 						<Folder id="342772826139C09DB445">
 							<name>23-julio-2025</name>
+							<open>1</open>
 							<Placemark id="48CD1424C639C09DB445">
 								<name>KD102001</name>
 								<styleUrl>#m_ylw-pushpin00</styleUrl>
